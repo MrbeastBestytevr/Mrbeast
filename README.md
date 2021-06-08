@@ -1,2 +1,2 @@
-# Mrbeast
-OMGG
+#NameOne
+TakeOne
